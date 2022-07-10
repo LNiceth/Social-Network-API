@@ -1,6 +1,6 @@
 # 📝 Homework #10: Social Media API
 
-📌 [Walkthrough Video](./images/social-media-api-preview.mp4)
+📌 [Walkthrough Video](https://youtu.be/-xoXbzhM09M)
 
 ## 🔨 Task
 Using MongoDB and Mongoose, create an API for a social media platform where clients can create a user, create thoughts, react to thoughts, and add friends. Each of these methods should also have CRUD methods applied to them.
@@ -28,9 +28,6 @@ To start the server, run `npm start` and the server will begin listening for req
 
 This project is licensed under the MIT license.
 
-## Demo
-
-A walkthrough video for how to use this code can be viewed [here]().
 
 ## Questions
 
